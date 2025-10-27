@@ -1,0 +1,5 @@
+{
+  "name": "Selector de Competencias",
+  "description": "Una aplicación para seleccionar competencias y sus indicadores observables basados en una matriz proporcionada. Permite a los usuarios marcar los indicadores relevantes para su evaluación o seguimiento.",
+  "requestFramePermissions": []
+}
